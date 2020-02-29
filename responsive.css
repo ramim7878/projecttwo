@@ -1,0 +1,174 @@
+@media only screen and (max-width: 1200px){
+    .hero-text-box{
+        width: 90%;}
+    
+    .row {
+        margin: 0 15px;
+    }
+    header{
+        height:65vh;
+    }
+    
+}
+@media only screen and (max-width: 1024px)
+    
+{
+    .row {
+        margin: 0 15px;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+    .from input[type="email"]{
+        margin-left: 0;
+    }
+    
+    .hero-text-box{
+        width: 90%;}
+    
+    .main-nav{
+        display: none;
+    }
+    html{
+        font-size: 57.5%;
+    }
+    .client-photo{
+        width: 100%;
+        text-align: center;
+        float: none;
+        
+    }
+    .client-member{
+        float: none;
+        text-align: center;
+        margin-left: 0;
+        
+        
+    }
+    .client-section .col:nth-child(1)
+    .client-section .col:nth-child(2)
+    {
+        margin-left:0;
+    }
+    
+    .client-review{
+        width:100%;
+        float: none;
+        text-align: center;
+        margin-left: 0;
+        font-size: 1.6rem;
+    }
+    .client-review p{
+        width: 100%;
+        text-align: ;
+        float: none;
+        margin-left: 0;
+    }
+    .sami{
+        width: 100%;
+        text-align: center;
+        float: none;
+        margin-left: 0;
+        margin-top: 2rem;
+    }
+    .ramim{
+        width: 100%;
+        text-align: center;
+        float: none;
+    }
+    .from input[type="text"],
+.from input[type="email"],
+.from textarea{
+        width: 100%;
+    }
+    
+}
+ 
+
+@media only screen and (max-width:980px)
+{
+    .span_1_of_4 {
+        width: 49.2%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    
+    
+}
+@media only screen and (max-width: 800px){
+    header{
+height: 50vh;}
+}
+@media only screen and (max-width:768px){
+    .services-section p{
+        width: 100%;
+        margin-left: 0;
+        font-size: 1.4rem;
+    }
+    .from input[type="email"]{
+        margin-left: 0;
+    }
+    header{
+        height: 60vh;}
+    .contact-section p{
+        width: 100%;
+        margin-left: 0;
+        font-size: 1.4rem;
+    }
+    .portfolio-section p{
+        width: 100%;
+        margin-left: 0;
+    }
+    .skill-section p{
+        width: 100%;
+        margin-left: 0;
+        font-size: 1.4rem;
+    }
+    h1{
+        font-size: 3.5rem;
+        color: #fff;
+    }
+    .btn:link,
+    .btn:visited{
+        color: #fff;
+        font-weight: 600;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    h3{
+        font-size:2rem;
+    }
+}
+@media only screen and (max-width:480px){
+    .span_1_of_4 {
+        width:100%;
+    }
+    h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 2.5rem;
+    }
+    h3{
+        font-size:2rem;
+    }
+    .from input[type="email"]{
+        margin-left: 0;
+    }
+    .client-section .col:nth-child(1),
+    .client-section .col:nth-child(2),
+    .client-section .col:nth-child(3),
+    .client-section .col:nth-child(4)
+    {
+        margin-bottom: 1rem;
+    }
+    header{
+        height: 65vh;
+    }
+
+
+    
+}
+
